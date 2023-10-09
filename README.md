@@ -1,0 +1,2 @@
+# CodeAlpha_TTS
+pytesseract
